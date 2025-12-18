@@ -2,7 +2,7 @@ imagine if you could play the bee movie on a hardware chal.
 
 if you want to procure the bee movie i could or could not possibly lead you to it 
 
-![](https://github.com/saumilthecode/beemovieonblahajctflanyardhwchal/raw/refs/heads/main/IMG_3735-2.mov)
+u can see a demo -> [IMG_3735-2.mp4](https://github.com/saumilthecode/beemovieonblahajctflanyardhwchal/raw/refs/heads/main/VERT_IMG_3735-2.mp4)
 
 codex generated a lovely readme.md in the bee_movie folder for the intricate details but essentially you need to get a file named bee_movie.mp4 into this folder and then run
 
